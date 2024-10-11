@@ -1,0 +1,5 @@
+A modal window is a graphical user interface (GUI) element that appears on top of the main content, requiring the user to interact with it before returning to the underlying content. It is typically used for tasks like displaying alerts, gathering input, or providing additional information. Modal windows are often used to focus the user's attention on a particular task without distractions.it is basicly used for
+=>Confirmations (e.g., "Are you sure you want to delete this item?")
+=>Forms (e.g., login, signup, or input forms)
+=>Alerts or error messages
+=>Pop-up content that requires attention
